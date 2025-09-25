@@ -1,1 +1,1 @@
-Despues de ejecutar en un navegador http://localhost:8080/ me muestra el body de mi html. (No entiendo bien para que sirve el comando docker compose up)
+Despues de ejecutar en un navegador http://localhost:8080/ me muestra el body de mi html.
